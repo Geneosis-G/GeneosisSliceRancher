@@ -1,0 +1,64 @@
+Look at all those cute little Slices :3
+
+Yet another planet full of Slices to visit! Take your vacuum and your building tools, and get ready to meet those peaceful creatures once again :) You can use the Blorts they produce to craft Parks for your brand new ranch!
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Rancher Goat: You have a vacuum able to automatically fill or empty your inventory.
+- Slice Planet: The world is now populated by kind little Slices and you can create Parks for them.
+
+[b]KEYBOARD CONTROLS[/b]
+[h1]Rancher Goat[/h1]
+- [b][RightClick] + [1]:[/b] Equip/unequip the vacuum.
+- [b][E]:[/b] Hold to attract items pointed by the cursor.
+- [b][R]:[/b] Throw the oldest item in your inventory in the direction of the cursor.
+[h1]Slice Planet[/h1]
+- [b][1] + [LeftClick]:[/b] Place a Slice Park (cost 15 Blorts).
+- [b][1] + [RagdollKey]:[/b] If inside a Park you created, destroy it.
+
+[b]GAMEPAD CONTROLS[/b]
+[h1]Rancher Goat[/h1]
+- [b][LT] + [RB]:[/b] Equip/unequip the vacuum.
+- [b][X]:[/b] Hold to attract items aligned with the cursor.
+- [b][Y]:[/b] Throw the oldest item in your inventory in the direction of the cursor.
+[h1]Slice Planet[/h1]
+- [b][RB] + [RT]:[/b] Place a Slice Park (cost 15 Blorts).
+- [b][RB] + [noparse][B][/noparse]:[/b] If inside a Park you created, destroy it.
+
+[b]CHARACTERISTICS[/b]
+[h1]Rancher Goat[/h1]
+- The vacuum is able to attract items from really far away, and even through solid objects.
+- The items are added to the regular MMO inventory, so you can still use it normally.
+[h1]Slice Planet[/h1]
+- Slices will randomly spawn on the map in small groups of a unique color: blue, yellow or red.
+- Each slice color eat a specific type of items:
+-- Red Slices eat explosive items (eg: Tube).
+-- Yellow Slices eat breakable items (eg: Barrel).
+-- Blue Slices eat any other movable items (eg: Wooden Box).
+- When a Slice eat an item it will create one Blort for each base color it have.
+- Slices can also eat Blorts of a color they don't have yet, doing so will change their color to a mix of both.
+- If a Slice with two colors eat a Blort of the third color it will turn into a Tartine.
+- Tartines are dark Slices that can't produce Blort and will duplicate by eating any colored Slice.
+- When you place a Park, the first 15 Blorts in your inventory will be consumed.
+- When a Slice is in a Park it can no longer dissapear.
+- You can walk though the Parks you created but they will block anything else.
+- All the Parks you palced and all the Slices they contain are saved, so they will remain if you change map or exit the game.
+- The save is updated every 10 seconds so make sure you wait long enough before you quit.
+- Tartines are not saved.
+
+[b]EASTER EGGS[/b]
+- [spoiler]Nothing yet :/ But I have some interesting ideas if I find more time ;)[/spoiler]
+
+[b]KNOWN BUGS[/b]
+- If you are walking on an item when it's added to the invntory by the vacuum, you will be teleported out of the map.
+- Slices can sometimes glitch out of their Park.
+- Slices can sometimes fail to save correctly.
+- Your ragdoll can't pass through Parks, and can be stuck in them.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]Here is another huge mod, with a few new features, but still really usefull :) Obviously this is a big parody of the game Slime Rancher and I wanted to bring to this game most of the features of the original game ^^ Anyway I had to keep it short as a really long time passed since I started the mod and I wanted it to be released ASAP :p
+First things first: the vacuum. Nothing exceptionnal here, I one of the GoatZ weapons as a model as it looked a lot like a vacuum to me, and then the only thing happening is that it's pushing in your direction any object aligned with the cursor :) I had some troubles to make the items enter the inventory automatically (mainly because small items would easily miss the "entrace" and fly under it...), anyway I think the current version is good enough to be used without having too much hard time gathering items ^^
+Then I started thinking about the Parks. So far I couldn't find a way to make them behave exactly as in the original game (so that you can throw things inside, but not outside), but I managed to make the goat pass through it anyway ^^ At least as long as you don't go ragdoll XD
+Then came the Slices :D Several people on the requested asked for more bread slice NPCs, so I thought I could use them in this mod as there was no proper Slime model in the game :) They use a custom texture I made by copying an existing one, only changing it so that I can change their color through code ^^ Their AI is based on the one from the Asymun mod, which let them chase any item on the map. The only difference is that their attack here will "eat" the item instead of kicking it :p I also reused the spawning method I made for the Zombie Outbreak mod to make Slices spawn all around the map and despawn when you walk too far away from them. I changed it a little so that they will spawn in packs of the same color, but the global method is still the same ;)
+[/quote]
